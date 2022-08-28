@@ -47,20 +47,20 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94711462312']
+global.ownertag = ' //your tag number
+global.botname = +94711462312'𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ -ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94711462312'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
-global.antitags = false
+global.antitags = .alive 
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
@@ -167,7 +167,7 @@ global.rep = { // All Replies = 145
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
-    K6: '😁Hey there💝 I am WhatsApp Bot😏',
+    K6: '😁Hey there💝 I am WhatsApp mahiya Bot😏',
     K7: '❣️ඇයි හලෝ😌',
     K8: '🙃මොකෝ හලෝ🥲',
     K9: '😒මොකෝ?',
